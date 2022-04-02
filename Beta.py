@@ -3,9 +3,10 @@ os.system('git pull')
 try:
     import requests
 except:
-    os.system('pip install requests')
-    os.system('pip install bs4')
-    os.system('pip install futures')
+    os.system('python3 -m pip install requests')
+    os.system('python3 -m pip install bs4')
+    os.system('python3 -m pip install futures')
+    os.system('python3 -m pip install machine')
 
 import requests
 bit = platform.architecture()[0]
