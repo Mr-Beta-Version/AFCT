@@ -1,4 +1,5 @@
 # AFCT
+```
 File Cracking For Green Lover 💕
 
 Paid Tools : Ok IDs File Cloning 
@@ -16,3 +17,15 @@ $ git clone https://github.com/Mr-Beta-Version/AFCT
 $ cd AFCT
 
 $ python3 Beta.py
+```
+
+# Single Command
+
+```git clone https://github.com/Mr-Beta-Version/AFCT;cd AFCT;python3 Beta.py```
+
+# Run
+```
+ cd AFCT
+
+ python3 Beta.py
+```
