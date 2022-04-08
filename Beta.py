@@ -12,6 +12,10 @@ try:
     import mechanize
 except:
     os.system('python3 -m pip install mechanize')
+try:
+    import rich
+except:
+    os.system('python3 -m pip install rich')
 
 import requests
 bit = platform.architecture()[0]
