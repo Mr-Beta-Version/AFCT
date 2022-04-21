@@ -20,7 +20,7 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from AFCT import bnsbuy
+    from AFCT5 import bnsbuy
     bnsbuy()
 elif bit == '32bit':
     from AFC import bnsbuy
